@@ -61,7 +61,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ### Statistical Analysis
 Evaluate the number of backers of successful and unsuccessful campaigns statistically. Create a new worksheet in your workbook, and create a column each for the number of backers of successful campaigns and unsuccessful campaigns.
 ![](images/Image_5.PNG)
-Use Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
+#### Use Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
   * The mean number of backers.
   * The median number of backers.
   * The minimum number of backers.
