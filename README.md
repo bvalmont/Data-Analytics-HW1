@@ -57,3 +57,14 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
   * Using the COUNTIFS() formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the Number Successful, Number Failed, and Number Canceled columns with this data.
   * Add up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
   * Create a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
+  
+### Statistical Analysis
+Evaluate the number of backers of successful and unsuccessful campaigns statistically. Create a new worksheet in your workbook, and create a column each for the number of backers of successful campaigns and unsuccessful campaigns.
+![](images/Image_5.PNG)
+Use Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
+  * The mean number of backers.
+  * The median number of backers.
+  * The minimum number of backers.
+  * The maximum number of backers.
+  * The variance of the number of backers.
+  * The standard deviation of the number of backers.
